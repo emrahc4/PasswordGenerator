@@ -1,4 +1,5 @@
 🔐 Şifre Oluşturucu
+
 Bu projede, kullanıcılara özel, güvenli şifreler oluşturmayı sağlayan bir Şifre Oluşturucu yer almaktadır. Kullanıcılar, istedikleri şifre uzunluğunu, büyük/küçük harf, sayı ve sembol gibi seçenekleri belirleyerek kendilerine uygun şifreyi kolayca oluşturabilirler. Ayrıca, oluşturulan şifreyi kopyalamak için bir buton da mevcuttur.
 
 Özellikler ✨
