@@ -3,6 +3,7 @@
 Bu projede, kullanıcılara özel, güvenli şifreler oluşturmayı sağlayan bir Şifre Oluşturucu yer almaktadır. Kullanıcılar, istedikleri şifre uzunluğunu, büyük/küçük harf, sayı ve sembol gibi seçenekleri belirleyerek kendilerine uygun şifreyi kolayca oluşturabilirler. Ayrıca, oluşturulan şifreyi kopyalamak için bir buton da mevcuttur.
 
 Özellikler ✨
+
 ✅ Şifre Uzunluğu: 2 ile 30 karakter arasında şifre uzunluğu seçme imkanı.
 
 🔠 Büyük Harf: Şifreye büyük harf ekleme seçeneği.
@@ -16,6 +17,7 @@ Bu projede, kullanıcılara özel, güvenli şifreler oluşturmayı sağlayan bi
 📋 Kopyalama: Oluşturduğunuz şifreyi bir tıkla panoya kopyalama.
 
 Kullanım 💻
+
 Şifre Uzunluğu: İstediğiniz uzunluğu seçin.
 
 Şifre Seçeneklerini Ayarlayın: Büyük harf, küçük harf, sayılar ve semboller seçeneklerini işaretleyin.
@@ -25,6 +27,7 @@ Kullanım 💻
 Kopyala: Oluşturduğunuz şifreyi kopyalamak için "Kopyala" butonuna tıklayın.
 
 Teknolojiler 🛠️
+
 HTML5: Sayfa yapısı için.
 
 CSS3: Tasarım ve düzen için.
